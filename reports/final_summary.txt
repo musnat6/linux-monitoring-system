@@ -1,1 +1,36 @@
 
+======================================================================
+               AAC6164 - LINUX MONITORING SYSTEM REPORT               
+======================================================================
+Generated On: 2026-02-02 17:49:14
+Status      : SUCCESS
+----------------------------------------------------------------------
+
+[1] SYSTEM PERFORMANCE METRICS
+=========================================
+Total Observations      : 46
+-----------------------------------------
+| Metric                | Average       | Status        |
+|-----------------------|---------------|---------------|
+| CPU Usage             |  1.07 %       | OK          |
+| RAM Usage             | 51.07 %       | OK          |
+| Peak Process Count    | 51            | Normal        |
+=========================================
+
+[2] DIRECTORY SECURITY LOG
+=========================================
+Monitored Events Detected: 6
+-----------------------------------------
+| Event Type            | Count         |
+|-----------------------|---------------|
+| [+] Files Created     | 2             |
+| [-] Files Deleted     | 2             |
+| [~] Files Modified    | 2             |
+=========================================
+
+[3] AUTOMATED ANALYSIS
+-----------------------------------------
+The system has successfully monitored the target directory and 
+performance metrics. Use the attached CSV logs for granular detail.
+======================================================================
+
