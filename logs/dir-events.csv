@@ -1,1 +1,8 @@
+Timestamp,Event_Type,Filename,Metadata
+2026-02-02 17:25:06,CREATED,evidence_for_assignment.txt,Size:17B | Perms:-rw-r--r--
+2026-02-02 17:25:08,MODIFIED,evidence_for_assignment.txt,Size:69B | Perms:-rw-r--r--
+2026-02-02 17:25:12,DELETED,evidence_for_assignment.txt,N/A
+2026-02-02 17:34:34,CREATED,evidence_for_assignment.txt,Size:17B | Perms:-rw-r--r--
+2026-02-02 17:34:38,MODIFIED,evidence_for_assignment.txt,Size:69B | Perms:-rw-r--r--
+2026-02-02 17:34:40,DELETED,evidence_for_assignment.txt,N/A
 
